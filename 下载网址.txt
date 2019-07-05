@@ -1,2 +1,8 @@
 everything(包含便携版和安装版)     --- 文件搜索
 https://www.voidtools.com/zh-cn/downloads/
+
+vs卸载
+https://github.com/Microsoft/VisualStudioUninstaller/releases
+
+解锁百度云快速下载：
+http://pandownload.com/
